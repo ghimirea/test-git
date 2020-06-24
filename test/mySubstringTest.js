@@ -1,5 +1,5 @@
 const assert = require('chai').assert;
-const app = require('../subString');
+const app = require('../src/mySubstring');
 
 describe('My Substring', () => {
   it('Returns a string', () => {
